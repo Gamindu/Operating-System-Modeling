@@ -1,6 +1,6 @@
 # Operating System Modeling
 
-In this project, we designed operating system which uses design patterns according to our lecture. This is just an operating system modelling, not the actual one. Our operating system has many functions. Our primarily goal for the project is accomplish file input and output. Besides that, we have internal – external devices for the appropriate operating system. Furthermore, we have also proper files and directories according to the operating system type. Images from execution of the code can be viewed in sampleExecution.jpeg.
+In this project, we designed operating system which uses design patterns according to our lecture. This is just an operating system modelling, not the actual one. Our operating system has many functions. Our primarily goal for the project is accomplish file input and output. Besides that, we have internal – external devices for the appropriate operating system. Furthermore, we have also proper files and directories according to the operating system type. Images from execution of the code can be viewed in sampleExecution.png.
 
 # WHICH PATTERN DID WE USE?
 
